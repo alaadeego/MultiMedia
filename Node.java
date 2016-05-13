@@ -7,7 +7,7 @@
   int frequency; 
   char symbol;
 
-Node(char c,int v )
+Node(int v, char c)
 {
 	this.left=null;
 	this.right=null;
